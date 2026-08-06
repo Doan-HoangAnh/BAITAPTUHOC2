@@ -769,4 +769,7 @@ This project allowed me to practice an AI-supported software development workflo
 ```text
 Requirement → Planning → Design → Coding → Testing → Review
 ```
+## Website
 
+![Website](Screenshot 2026-08-06 103720.png)
+![Website](Screenshot 2026-08-06 103823.png)
