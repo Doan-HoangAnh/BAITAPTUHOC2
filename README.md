@@ -762,12 +762,6 @@ AI should be treated as a development assistant, not as a replacement for human 
 
 ---
 
-## 17. Conclusion
-
-This project allowed me to practice an AI-supported software development workflow:
-
-```text
-Requirement → Planning → Design → Coding → Testing → Review
 ```
 ## Website
 
