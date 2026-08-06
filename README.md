@@ -765,5 +765,6 @@ AI should be treated as a development assistant, not as a replacement for human 
 ```
 ## Website
 
-![Website](Screenshot 2026-08-06 103720.png)
-![Website](Screenshot 2026-08-06 103823.png)
+## Website
+
+![Website](BAITAPTUHOC2/Screenshot 2026-08-06 103823.png)
