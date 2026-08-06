@@ -760,11 +760,7 @@ AI should be treated as a development assistant, not as a replacement for human 
 ```text
 (https://doan-hoanganh.github.io/BAITAPTUHOC2/)```
 
----
-
 ```
 ## Website
 
-## Website
-
-![Website](BAITAPTUHOC2/Screenshot 2026-08-06 103823.png)
+(BAITAPTUHOC2/Screenshot 2026-08-06 103823.png)
