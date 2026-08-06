@@ -758,7 +758,7 @@ AI should be treated as a development assistant, not as a replacement for human 
 **Live Website:**
 
 ```text
-(https://doan-hoanganh.github.io/BAITAPTUHOC2/)```
+https://doan-hoanganh.github.io/BAITAPTUHOC2
 
 ```
 ## Website
