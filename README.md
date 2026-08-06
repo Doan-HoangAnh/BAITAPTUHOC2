@@ -754,17 +754,11 @@ AI should be treated as a development assistant, not as a replacement for human 
 
 ## 16. Project Links
 
-**GitHub Repository:**
-
-```text
-Add your repository link here.
-```
 
 **Live Website:**
 
 ```text
-Add your GitHub Pages link here.
-```
+(https://doan-hoanganh.github.io/BAITAPTUHOC2/)```
 
 ---
 
@@ -776,10 +770,3 @@ This project allowed me to practice an AI-supported software development workflo
 Requirement → Planning → Design → Coding → Testing → Review
 ```
 
-AI helped me analyze the assignment, identify functions, plan the interface, generate an initial version of the code, suggest tests, and review the final project.
-
-However, AI did not guarantee that every result was correct or suitable.
-
-I had to limit the scope, understand the code, run the website, calculate results manually, test each function, and correct inappropriate suggestions.
-
-The most important lesson is that effective use of AI requires more than writing prompts. The user must also provide appropriate context, evaluate the output, test the software, and take responsibility for the final result.
